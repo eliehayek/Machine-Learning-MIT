@@ -9,7 +9,6 @@
   <li>Introduction to Machine Learning</li>
   <li>Linear Classifier and Perceptron</li>
   <li>Hinge loss, Margin boundaries and Regularization</li>
-  <li>Project 1: Automatic Review Analyzer</li>
 </ul>  
 
 
@@ -20,7 +19,6 @@
   <li>Linear Regression</li>
   <li>Nonlinear Classification</li>
   <li>Recommender Systems</li>
-  <li>Project 2: Digit recognition(part 1)</li>
 </ul>
 
 <h3>Neural networks</h3>
