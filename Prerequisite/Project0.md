@@ -15,3 +15,12 @@ def neural_network(inputs,weights):
 ## 2. Vectorize function
 
 
+```python
+
+def scalar_function(x,y):
+
+    if x <= y:
+      return x*y
+    else:
+      return x/y
+ ``` 
